@@ -1,7 +1,8 @@
 def main(msg):
-    # Adding third comment.
-    # Creating a merge conflict.
-    # Print 'Hello world'
-    print(msg);
+    # Learning branches.
+    print(msg)
+
+def second():
+    print("New function")
 
 main("Hello world!")
